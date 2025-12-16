@@ -24,6 +24,11 @@ I’m driven by the idea of using technology to create impact. Whether it’s bu
 
 ## 💼 Featured Projects
 
+### 🏥 [Med-ify: Hospital Management System](https://github.com/lexinejazly-asuncion/CS157A-Med-ify)
+A full-stack, three-tier hospital management system designed to manage patients, doctors, appointments, and prescriptions  
+**Tech Used**: Java, JDBC, PostgreSQL, Apache Tomcat, Maven  
+**Highlights**: Built a database-driven healthcare system using JDBC with PostgreSQL and deployed it on Tomcat using a clean three-tier architecture
+
 ### 🎯 [Census Workclass Classifier](https://github.com/ariansbahram/eCornell-census-workclass-model)
 A multi-class classification model predicting a person’s workclass using U.S. Census data  
 **Tech Used**: Python, scikit-learn, pandas, KNN, Random Forest, GridSearchCV  
