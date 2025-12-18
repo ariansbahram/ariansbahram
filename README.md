@@ -24,6 +24,17 @@ I’m driven by the idea of using technology to create impact. Whether it’s bu
 
 ## 💼 Featured Projects
 
+### 🧠 [Challenger Insight: Neuroscience-Driven Learning Engagement System](https://github.com/Chambers-Capital-Ventures-Inc/challenger-insight)
+A machine learning system that predicts learner disengagement risk by combining **EEG-derived brainwave features** with self-reported survey data, developed in partnership with **Chambers Capital Ventures** as part of the **Break Through Tech AI Studio**  
+**Tech Used**: Python, scikit-learn, pandas, NumPy, Streamlit, dimensionality reduction, EEG feature engineering  
+**Highlights**:
+- Built an end-to-end ML pipeline linking cognitive load and attention signals to engagement outcomes  
+- Achieved **~80%+ accuracy** on held-out data using interpretable models (Logistic Regression, Random Forests)  
+- Identified early disengagement indicators to support **adaptive learning interventions**  
+- Designed a **Streamlit dashboard** to visualize engagement risk, EEG feature trends, and model explanations for non-technical stakeholders  
+- Conducted fairness checks across demographic subgroups to ensure transparent and equitable predictions
+
+
 ### 🏥 [Med-ify: Hospital Management System](https://github.com/lexinejazly-asuncion/CS157A-Med-ify)
 A full-stack, three-tier hospital management system designed to manage patients, doctors, appointments, and prescriptions  
 **Tech Used**: Java, JDBC, PostgreSQL, Apache Tomcat, Maven  
