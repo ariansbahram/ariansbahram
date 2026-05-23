@@ -15,14 +15,41 @@ I’m driven by the idea of using technology to create impact. Whether it’s bu
 
 ##  Tech Stack
 
-**Languages**: Python, JavaScript, Java, C  
-**Frameworks/Tools**: React, Node.js, Express, Git, GitHub, Jupyter Notebook, VSCode  
-**Libraries**: pandas, NumPy, scikit-learn, GridSearchCV  
-**Other**: REST APIs, AWS EC2, MongoDB (learning), Rasa chatbot, Scratch  
+### Languages
+Python • Java • C • JavaScript • TypeScript • SQL • Shell
+
+### Frameworks & Tools
+React • React Native • FastAPI • Node.js • Docker • Git • GitHub • PostgreSQL • AWS EC2 • Linux • VS Code • Jupyter Notebook • PySpark • Google Cloud Dataproc
+
+### AI / ML
+scikit-learn • TensorFlow / Keras • pandas • NumPy • Feature Engineering • Hyperparameter Tuning • RAG • FAISS • Vector Databases • LLM Workflows • Prompt Engineering
+
+### Other
+REST APIs • SSE • MCP Servers • Security Tooling • Cloud Deployment
 
 ---
 
 ##  Featured Projects
+
+###  [SentinelFlow: Agentic AI Security Alert Triage System](https://github.com/ariansbahram/sentinelflow)
+
+Prototype AI system simulating how security teams triage, prioritize, and respond to alerts using agent workflows and retrieval-augmented reasoning.
+
+**Tech Used:** FastAPI, React, FAISS, OpenAI Embeddings, RAG, Docker
+
+### Highlights
+- Built an agentic AI workflow using:
+
+  **Perception → Reasoning → Action → Learning**
+
+- Implemented retrieval using **FAISS vector search**
+- Added severity classification and alert routing
+- Simulated phishing detection and SOC workflows
+- Built historical incident retrieval for context-aware decisions
+- Focused on explainability and practical security operations design
+
+---
+
 
 ###  [Challenger Insight: Neuroscience-Driven Learning Engagement System](https://github.com/Chambers-Capital-Ventures-Inc/challenger-insight)
 A machine learning system that predicts learner disengagement risk by combining **EEG-derived brainwave features** with self-reported survey data, developed in partnership with **Chambers Capital Ventures** as part of the **Break Through Tech AI Studio**  
@@ -33,6 +60,46 @@ A machine learning system that predicts learner disengagement risk by combining 
 - Identified early disengagement indicators to support **adaptive learning interventions**  
 - Designed a **Streamlit dashboard** to visualize engagement risk, EEG feature trends, and model explanations for non-technical stakeholders  
 - Conducted fairness checks across demographic subgroups to ensure transparent and equitable predictions
+
+### [PaySim Financial Fraud Analytics Pipeline](https://github.com/sjsu-cs131-spring26/team-3-paysim-financial-fraud)
+
+**Academic Team Project — CS131 Processing Big Data**
+
+Large-scale fraud analytics system built on the PaySim dataset (~6M financial transactions).
+
+**Tech Used:** PySpark, Google Cloud Dataproc, Pandas, UNIX Pipelines
+
+### My Contributions
+- Fraud pattern analysis
+- Data engineering workflows
+- Feature engineering
+- ML experimentation
+- Distributed analytics processing
+
+### Project Outcomes
+- Identified fraud transaction behaviors
+- Generated transaction trend reports
+- Built scalable analytics pipelines
+- Explored financial risk analysis workflows
+
+---
+
+### [Online Bank Platform](https://github.com/chrehall68/cs160-group1)
+
+**Academic Team Project — CS160 Software Engineering**
+
+Full-stack banking platform supporting transfers, account management, ATM search, recurring payments, and mobile access.
+
+**Tech Used:** React, React Native, FastAPI, PostgreSQL, Docker, Plaid, AWS
+
+### My Contributions
+- Mobile client development
+- Transfer workflow implementation
+- ATM locator integration
+- Frontend components
+- Testing and bug fixes
+
+---
 
 
 ###  [Med-ify: Hospital Management System](https://github.com/lexinejazly-asuncion/CS157A-Med-ify)
